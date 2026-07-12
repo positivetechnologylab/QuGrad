@@ -1,0 +1,19 @@
+{
+  "collected_at": "2025-12-17T17:29:33.639817",
+  "backends_requested": [
+    "ibm_pittsburgh"
+  ],
+  "days_requested": 1,
+  "dates_attempted": [
+    "2025-12-17"
+  ],
+  "results": {
+    "ibm_pittsburgh": [
+      "2025-12-17"
+    ]
+  },
+  "missing": {
+    "ibm_pittsburgh": []
+  },
+  "total_models": 1
+}

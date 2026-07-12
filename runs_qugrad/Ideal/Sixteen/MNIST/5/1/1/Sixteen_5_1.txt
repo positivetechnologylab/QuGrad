@@ -1,0 +1,18 @@
+Mon Jan 12 15:41:47 2026 
+ Ansatz: Sixteen 
+ Training Time: 365.1664979457855 
+ Parameters: [2.07531947 2.25929886 2.19867913 1.11391347 1.51554515 3.03004707
+ 5.98667002 0.46316439 0.1826357  0.55127816 1.4706036  1.63102313
+ 1.01741958 0.84877806] 
+ Dist: MNIST 
+ Initial Cost: 0.8494999999999999 
+ Total Iterations: 79 
+ Best Cost: 0.05 (saved) 
+ Final Cost: 0.05 
+ Message: Parameter-shift GAN training 
+ Backend: ideal 
+ Date: N/A 
+ Method: GAN with Parameter Shift Rule 
+ Final Entropy (bits): 0.0000 +/- 0.0000 
+ Final Purity:       1.0000 +/- 0.0000 
+ Note: Metrics over fixed set of 32 states 

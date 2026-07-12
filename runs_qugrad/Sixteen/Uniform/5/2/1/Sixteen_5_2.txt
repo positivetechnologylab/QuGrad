@@ -1,0 +1,17 @@
+Mon Dec 01 01:10:50 2025 
+ Ansatz: Sixteen 
+ Training Time: 357708.95736813545 
+ Parameters: [0.8207715  5.042373   3.3160326  5.0570025  5.6043777  2.9025514
+ 3.5506277  3.698579   4.6123223  0.9657833  2.49946    3.610325
+ 2.230884   1.3377866  1.3946811  6.164929   0.50793076 3.7295895
+ 3.3416204  6.134245   1.7766132  4.8002195  0.25777972 3.6952388
+ 1.635068   4.0739775  4.2129893  5.609208  ] 
+ Dist: Uniform 
+ Initial Cost: 0.9114 
+ Total Iterations: 100 
+ Best Cost: 0.4931 (saved) 
+ Final Cost: 0.5611 
+ Message: Parameter-shift GAN training 
+ Backend: ibm_brisbane 
+ Date: 2025-11-03 
+ Method: GAN with Parameter Shift Rule 

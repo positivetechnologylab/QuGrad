@@ -1,0 +1,11 @@
+Sat Nov 16 22:26:07 2024 
+ Ansatz: Custom_One 
+ Training Time: 15424.60840678215 
+ Parameters: [[2.03803796 1.65472429 1.80855228 6.15470039 5.16453353 4.93603609
+  0.61222871 4.46499538 1.00063555 1.67615855 3.32076716 3.7414002
+  4.8941849  4.37336717]] 
+ Dist: Fashion MNIST 
+ Initial Cost: 0.22962374967426386 
+ Total Iterations: 500 
+ Final Cost: 0.05476436747048327 
+ Message: ['Maximum number of iteration reached']

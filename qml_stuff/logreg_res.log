@@ -1,0 +1,80 @@
+—— fold 1/5 —————————————————————————
+accuracy = 0.825
+confusion matrix:
+[[35  6]
+ [ 8 31]]
+              precision    recall  f1-score   support
+
+           0      0.814     0.854     0.833        41
+           1      0.838     0.795     0.816        39
+
+    accuracy                          0.825        80
+   macro avg      0.826     0.824     0.825        80
+weighted avg      0.826     0.825     0.825        80
+
+
+—— fold 2/5 —————————————————————————
+accuracy = 0.700
+confusion matrix:
+[[32  8]
+ [16 24]]
+              precision    recall  f1-score   support
+
+           0      0.667     0.800     0.727        40
+           1      0.750     0.600     0.667        40
+
+    accuracy                          0.700        80
+   macro avg      0.708     0.700     0.697        80
+weighted avg      0.708     0.700     0.697        80
+
+
+—— fold 3/5 —————————————————————————
+accuracy = 0.750
+confusion matrix:
+[[24 16]
+ [ 4 36]]
+              precision    recall  f1-score   support
+
+           0      0.857     0.600     0.706        40
+           1      0.692     0.900     0.783        40
+
+    accuracy                          0.750        80
+   macro avg      0.775     0.750     0.744        80
+weighted avg      0.775     0.750     0.744        80
+
+
+—— fold 4/5 —————————————————————————
+accuracy = 0.800
+confusion matrix:
+[[33  7]
+ [ 9 31]]
+              precision    recall  f1-score   support
+
+           0      0.786     0.825     0.805        40
+           1      0.816     0.775     0.795        40
+
+    accuracy                          0.800        80
+   macro avg      0.801     0.800     0.800        80
+weighted avg      0.801     0.800     0.800        80
+
+
+—— fold 5/5 —————————————————————————
+accuracy = 0.747
+confusion matrix:
+[[29 11]
+ [ 9 30]]
+              precision    recall  f1-score   support
+
+           0      0.763     0.725     0.744        40
+           1      0.732     0.769     0.750        39
+
+    accuracy                          0.747        79
+   macro avg      0.747     0.747     0.747        79
+weighted avg      0.748     0.747     0.747        79
+
+
+=== summary ===
+fold accuracies: [0.825 0.7   0.75  0.8   0.747]
+mean ± std = 0.764367088607595 ± 0.0438245325028653
+
+Per-sample predictions saved to logreg_cv_results.csv

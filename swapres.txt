@@ -1,0 +1,135 @@
+Custom_One:
+  Uniform: 19 ranges
+    0.02-0.04: Mean=0.515, Std=0.024, Pairs=5
+    0.04-0.06: Mean=0.574, Std=0.083, Pairs=7
+    0.06-0.08: Mean=0.529, Std=0.041, Pairs=14
+  Normal: 15 ranges
+    0.02-0.04: Mean=0.508, Std=0.000, Pairs=1
+    0.04-0.06: Mean=0.595, Std=0.065, Pairs=3
+    0.06-0.08: Mean=0.513, Std=0.033, Pairs=11
+  Left Weibull: 7 ranges
+    0.00-0.02: Mean=0.532, Std=0.053, Pairs=102
+    0.02-0.04: Mean=0.532, Std=0.046, Pairs=137
+    0.04-0.06: Mean=0.518, Std=0.043, Pairs=93
+  Right Weibull: 13 ranges
+    0.14-0.16: Mean=0.489, Std=0.000, Pairs=1
+    0.16-0.18: Mean=0.500, Std=0.000, Pairs=1
+    0.18-0.20: Mean=0.502, Std=0.013, Pairs=7
+  MNIST: 13 ranges
+    0.02-0.04: Mean=0.495, Std=0.000, Pairs=1
+    0.04-0.06: Mean=0.538, Std=0.030, Pairs=3
+    0.06-0.08: Mean=0.515, Std=0.010, Pairs=4
+  Fashion MNIST: 13 ranges
+    0.00-0.02: Mean=0.643, Std=0.000, Pairs=1
+    0.02-0.04: Mean=0.588, Std=0.092, Pairs=8
+    0.04-0.06: Mean=0.540, Std=0.061, Pairs=28
+  CIFAR: 12 ranges
+    0.04-0.06: Mean=0.526, Std=0.031, Pairs=3
+    0.06-0.08: Mean=0.526, Std=0.041, Pairs=12
+    0.08-0.10: Mean=0.517, Std=0.025, Pairs=22
+  QCHEM: 6 ranges
+    0.00-0.02: Mean=0.510, Std=0.013, Pairs=6
+    0.02-0.04: Mean=0.530, Std=0.053, Pairs=78
+    0.04-0.06: Mean=0.527, Std=0.046, Pairs=167
+
+Custom_Two:
+  Uniform: 19 ranges
+    0.02-0.04: Mean=0.498, Std=0.000, Pairs=1
+    0.04-0.06: Mean=0.518, Std=0.012, Pairs=5
+    0.06-0.08: Mean=0.507, Std=0.008, Pairs=3
+  Normal: 14 ranges
+    0.04-0.06: Mean=0.524, Std=0.007, Pairs=2
+    0.06-0.08: Mean=0.529, Std=0.036, Pairs=10
+    0.08-0.10: Mean=0.518, Std=0.030, Pairs=16
+  Left Weibull: 5 ranges
+    0.00-0.02: Mean=0.529, Std=0.058, Pairs=133
+    0.02-0.04: Mean=0.528, Std=0.036, Pairs=126
+    0.04-0.06: Mean=0.532, Std=0.046, Pairs=114
+  Right Weibull: 12 ranges
+    0.14-0.16: Mean=0.505, Std=0.000, Pairs=1
+    0.18-0.20: Mean=0.498, Std=0.000, Pairs=1
+    0.20-0.22: Mean=0.498, Std=0.006, Pairs=4
+  MNIST: 12 ranges
+    0.02-0.04: Mean=0.533, Std=0.004, Pairs=2
+    0.04-0.06: Mean=0.522, Std=0.034, Pairs=13
+    0.06-0.08: Mean=0.531, Std=0.041, Pairs=26
+  Fashion MNIST: 10 ranges
+    0.00-0.02: Mean=0.508, Std=0.000, Pairs=1
+    0.02-0.04: Mean=0.512, Std=0.024, Pairs=15
+    0.04-0.06: Mean=0.523, Std=0.036, Pairs=48
+  CIFAR: 12 ranges
+    0.02-0.04: Mean=0.519, Std=0.014, Pairs=2
+    0.04-0.06: Mean=0.523, Std=0.047, Pairs=11
+    0.06-0.08: Mean=0.530, Std=0.033, Pairs=19
+  QCHEM: 6 ranges
+    0.00-0.02: Mean=0.516, Std=0.020, Pairs=17
+    0.02-0.04: Mean=0.525, Std=0.041, Pairs=95
+    0.04-0.06: Mean=0.531, Std=0.052, Pairs=155
+
+Sixteen:
+  Uniform: 20 ranges
+    0.00-0.02: Mean=0.541, Std=0.096, Pairs=11
+    0.02-0.04: Mean=0.530, Std=0.072, Pairs=18
+    0.04-0.06: Mean=0.536, Std=0.066, Pairs=24
+  Normal: 18 ranges
+    0.00-0.02: Mean=0.496, Std=0.009, Pairs=3
+    0.02-0.04: Mean=0.543, Std=0.092, Pairs=8
+    0.04-0.06: Mean=0.522, Std=0.030, Pairs=13
+  Left Weibull: 7 ranges
+    0.00-0.02: Mean=0.540, Std=0.061, Pairs=137
+    0.02-0.04: Mean=0.531, Std=0.044, Pairs=141
+    0.04-0.06: Mean=0.526, Std=0.039, Pairs=84
+  Right Weibull: 19 ranges
+    0.02-0.04: Mean=0.608, Std=0.107, Pairs=2
+    0.04-0.06: Mean=0.512, Std=0.013, Pairs=2
+    0.06-0.08: Mean=0.504, Std=0.008, Pairs=5
+  MNIST: 15 ranges
+    0.00-0.02: Mean=0.497, Std=0.000, Pairs=1
+    0.02-0.04: Mean=0.518, Std=0.046, Pairs=16
+    0.04-0.06: Mean=0.514, Std=0.016, Pairs=13
+  Fashion MNIST: 13 ranges
+    0.00-0.02: Mean=0.521, Std=0.017, Pairs=5
+    0.02-0.04: Mean=0.589, Std=0.098, Pairs=15
+    0.04-0.06: Mean=0.523, Std=0.046, Pairs=37
+  CIFAR: 15 ranges
+    0.00-0.02: Mean=0.547, Std=0.059, Pairs=3
+    0.02-0.04: Mean=0.505, Std=0.013, Pairs=8
+    0.04-0.06: Mean=0.537, Std=0.063, Pairs=17
+  QCHEM: 6 ranges
+    0.00-0.02: Mean=0.522, Std=0.027, Pairs=28
+    0.02-0.04: Mean=0.530, Std=0.054, Pairs=82
+    0.04-0.06: Mean=0.538, Std=0.053, Pairs=142
+
+Five:
+  Uniform: 20 ranges
+    0.00-0.02: Mean=0.559, Std=0.060, Pairs=7
+    0.02-0.04: Mean=0.573, Std=0.091, Pairs=16
+    0.04-0.06: Mean=0.539, Std=0.054, Pairs=14
+  Normal: 18 ranges
+    0.00-0.02: Mean=0.507, Std=0.000, Pairs=1
+    0.02-0.04: Mean=0.500, Std=0.008, Pairs=7
+    0.04-0.06: Mean=0.532, Std=0.079, Pairs=16
+  Left Weibull: 7 ranges
+    0.00-0.02: Mean=0.537, Std=0.058, Pairs=120
+    0.02-0.04: Mean=0.529, Std=0.042, Pairs=135
+    0.04-0.06: Mean=0.521, Std=0.033, Pairs=95
+  Right Weibull: 16 ranges
+    0.06-0.08: Mean=0.527, Std=0.000, Pairs=1
+    0.10-0.12: Mean=0.555, Std=0.000, Pairs=1
+    0.12-0.14: Mean=0.499, Std=0.004, Pairs=2
+  MNIST: 17 ranges
+    0.00-0.02: Mean=0.508, Std=0.014, Pairs=4
+    0.02-0.04: Mean=0.565, Std=0.095, Pairs=13
+    0.04-0.06: Mean=0.510, Std=0.010, Pairs=14
+  Fashion MNIST: 13 ranges
+    0.00-0.02: Mean=0.509, Std=0.006, Pairs=2
+    0.02-0.04: Mean=0.535, Std=0.057, Pairs=14
+    0.04-0.06: Mean=0.531, Std=0.038, Pairs=36
+  CIFAR: 13 ranges
+    0.02-0.04: Mean=0.536, Std=0.058, Pairs=4
+    0.04-0.06: Mean=0.512, Std=0.013, Pairs=14
+    0.06-0.08: Mean=0.532, Std=0.053, Pairs=32
+  QCHEM: 7 ranges
+    0.00-0.02: Mean=0.522, Std=0.031, Pairs=14
+    0.02-0.04: Mean=0.527, Std=0.042, Pairs=107
+    0.04-0.06: Mean=0.525, Std=0.044, Pairs=169

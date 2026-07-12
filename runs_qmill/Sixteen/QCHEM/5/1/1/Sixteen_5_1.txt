@@ -1,0 +1,11 @@
+Sun Nov 17 10:40:40 2024 
+ Ansatz: Sixteen 
+ Training Time: 10560.151440143585 
+ Parameters: [[1.34029507 1.2760751  4.39500707 1.16486177 0.71306018 1.33951334
+  1.81727365 3.0953262  3.46609311 2.4930587  5.45411673 1.09417227
+  6.21137123 0.44214389]] 
+ Dist: QCHEM 
+ Initial Cost: 0.23034660693213868 
+ Total Iterations: 500 
+ Final Cost: 0.01668033360667216 
+ Message: ['Maximum number of iteration reached']

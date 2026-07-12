@@ -1,0 +1,11 @@
+Sun Nov 17 03:30:00 2024 
+ Ansatz: Sixteen 
+ Training Time: 9903.69268488884 
+ Parameters: [[4.34185509 4.26366636 1.16844739 4.62165697 1.73774155 0.06800607
+  1.99565567 2.56309883 4.26699271 3.00057144 4.62924852 5.51388828
+  5.79885594 4.5761599 ]] 
+ Dist: CIFAR 
+ Initial Cost: 0.36337 
+ Total Iterations: 500 
+ Final Cost: 0.13268 
+ Message: ['Maximum number of iteration reached']

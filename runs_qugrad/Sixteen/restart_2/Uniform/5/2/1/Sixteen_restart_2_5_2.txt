@@ -1,0 +1,17 @@
+Sun Dec 21 19:37:53 2025 
+ Ansatz: Sixteen_restart_2 
+ Training Time: 92022.65415287018 
+ Parameters: [5.92766338 4.93960845 3.52156524 0.32661331 3.57836665 3.72677277
+ 5.00772935 3.38228628 0.70187539 6.10742    3.17716196 0.02927943
+ 5.80309227 0.65350476 0.76298738 3.82104703 2.3429044  2.48154584
+ 1.99417475 0.79563595 3.03574315 5.23076227 0.0386591  0.66948802
+ 0.65700248 2.08154306 6.26366586 0.33245007] 
+ Dist: Uniform 
+ Initial Cost: 0.58185 
+ Total Iterations: 26 
+ Best Cost: 0.29475 (saved) 
+ Final Cost: 0.29475 
+ Message: Parameter-shift GAN training 
+ Backend: ibm_pittsburgh 
+ Date: 2025-12-17 
+ Method: GAN with Parameter Shift Rule 

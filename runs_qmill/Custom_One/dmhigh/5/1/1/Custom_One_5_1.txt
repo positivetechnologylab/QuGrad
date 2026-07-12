@@ -1,0 +1,11 @@
+Sun Apr 20 01:39:33 2025 
+ Ansatz: Custom_One 
+ Training Time: 7124.136300563812 
+ Parameters: [[3.03577507 4.72758298 1.41003534 4.47038286 1.50685247 0.4652821
+  3.11194405 0.12732355 2.83946786 1.02448311 3.00451167 3.22498974
+  1.25902306 0.96165961]] 
+ Dist: dmhigh 
+ Initial Cost: 0.3111567676468617 
+ Total Iterations: 300 
+ Final Cost: 0.10797759739458686 
+ Message: ['Maximum number of iteration reached']

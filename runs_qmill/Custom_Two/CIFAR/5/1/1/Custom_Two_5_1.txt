@@ -1,0 +1,11 @@
+Sun Nov 17 00:33:20 2024 
+ Ansatz: Custom_Two 
+ Training Time: 9315.292718172073 
+ Parameters: [[1.08397262 0.14415278 5.38739207 3.92331564 2.15271569 2.25285503
+  5.2191211  5.01493838 1.07491239 2.20901075 3.97506114 2.8709933
+  3.41852668 4.164982  ]] 
+ Dist: CIFAR 
+ Initial Cost: 0.38414 
+ Total Iterations: 500 
+ Final Cost: 0.044589999999999984 
+ Message: ['Maximum number of iteration reached']

@@ -1,0 +1,49 @@
+panel,target,method,tvd
+stress,Uniform,QMill,0.16871000000000003
+stress,Uniform,QuGrad (Ideal),0.0932
+stress,Uniform,QuGrad (Noisy),0.2006
+stress,Uniform,QMill (Noisy),0.30754000000000004
+stress,Normal,QMill,0.21493939757590305
+stress,Normal,QuGrad (Ideal),0.057100000000000005
+stress,Normal,QuGrad (Noisy),0.07074457445744577
+stress,Normal,QMill (Noisy),0.318063122524901
+stress,Left Weibull,QMill,0.07243999999999999
+stress,Left Weibull,QuGrad (Ideal),0.035599999999999986
+stress,Left Weibull,QuGrad (Noisy),0.7095
+stress,Left Weibull,QMill (Noisy),0.74813
+stress,Right Weibull,QMill,0.5780980219604391
+stress,Right Weibull,QuGrad (Ideal),0.1446
+stress,Right Weibull,QuGrad (Noisy),0.25525000000000003
+stress,Right Weibull,QMill (Noisy),0.468519330225962
+real,MNIST,QMill,0.2195
+real,MNIST,QuGrad (Ideal),0.05
+real,MNIST,QuGrad (Noisy),0.06799999999999999
+real,MNIST,QMill (Noisy),0.54091
+real,Fashion MNIST,QMill,0.1486515266717355
+real,Fashion MNIST,QuGrad (Ideal),0.03734740844506703
+real,Fashion MNIST,QuGrad (Noisy),0.10260354141656666
+real,Fashion MNIST,QMill (Noisy),0.5737410060426588
+real,CIFAR,QMill,0.25278
+real,CIFAR,QuGrad (Ideal),0.03280000000000001
+real,CIFAR,QuGrad (Noisy),0.05524999999999999
+real,CIFAR,QMill (Noisy),0.54484
+real,QCHEM,QMill,0.12466798339916993
+real,QCHEM,QuGrad (Ideal),0.03210000000000001
+real,QCHEM,QuGrad (Noisy),0.5648000000000001
+real,QCHEM,QMill (Noisy),0.871695184759238
+sensors,Soillow,QMill,0.09325
+sensors,Soillow,QuGrad (Ideal),0.0907
+sensors,Soillow,QuGrad (Noisy),0.1865
+sensors,Soillow,QMill (Noisy),0.30966
+sensors,Soilhigh,QMill,0.09353000000000002
+sensors,Soilhigh,QuGrad (Ideal),0.09234999999999999
+sensors,Soilhigh,QuGrad (Noisy),0.13709999999999997
+sensors,Soilhigh,QMill (Noisy),0.23988
+sensors,dmlow,QMill,0.21389999999999995
+sensors,dmlow,QuGrad (Ideal),0.12494999999999998
+sensors,dmlow,QuGrad (Noisy),0.29074999999999995
+sensors,dmlow,QMill (Noisy),0.34196000000000004
+sensors,dmhigh,QMill,0.24953000000000003
+sensors,dmhigh,QuGrad (Ideal),0.1028
+sensors,dmhigh,QuGrad (Noisy),0.2358
+sensors,dmhigh,QMill (Noisy),0.26014

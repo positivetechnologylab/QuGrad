@@ -1,0 +1,582 @@
+
+—— fold 1/5 —————————————————————
+[eval 00000]  loss = 0.325961
+[eval 00010]  loss = -3.524834
+[eval 00020]  loss = -5.571521
+[eval 00030]  loss = -2.868373
+[eval 00040]  loss = 2.843740
+[eval 00050]  loss = -3.940994
+[eval 00060]  loss = 1.937394
+[eval 00070]  loss = 1.388725
+[eval 00080]  loss = 3.556411
+[eval 00090]  loss = -2.352267
+[eval 00100]  loss = 3.840304
+[eval 00110]  loss = -0.193309
+[eval 00120]  loss = -1.615455
+[eval 00130]  loss = 1.059547
+[eval 00140]  loss = -4.715529
+[eval 00150]  loss = -0.878974
+[eval 00160]  loss = 2.127916
+[eval 00170]  loss = 3.109735
+[eval 00180]  loss = 3.098927
+[eval 00190]  loss = -3.273005
+[eval 00200]  loss = 1.026081
+[eval 00210]  loss = -3.651269
+[eval 00220]  loss = -3.179001
+[eval 00230]  loss = -0.393004
+[eval 00240]  loss = -4.062758
+[eval 00250]  loss = 0.100086
+[eval 00260]  loss = 0.452472
+[eval 00270]  loss = -2.407701
+[eval 00280]  loss = -1.026424
+[eval 00290]  loss = -0.032517
+[eval 00300]  loss = -3.319270
+[eval 00310]  loss = 0.277848
+[eval 00320]  loss = -0.981433
+[eval 00330]  loss = -0.729249
+[eval 00340]  loss = 0.732193
+[eval 00350]  loss = -4.491344
+[eval 00360]  loss = -1.999519
+[eval 00370]  loss = -1.047028
+[eval 00380]  loss = -1.268277
+[eval 00390]  loss = 4.392540
+[eval 00400]  loss = -1.487755
+[eval 00410]  loss = -0.483799
+[eval 00420]  loss = -3.414322
+[eval 00430]  loss = -0.080891
+[eval 00440]  loss = -3.598493
+[eval 00450]  loss = 1.900786
+[eval 00460]  loss = 3.927941
+[eval 00470]  loss = -3.948109
+[eval 00480]  loss = -0.057102
+[eval 00490]  loss = 2.790523
+[eval 00500]  loss = -0.369450
+[eval 00510]  loss = -3.608265
+[eval 00520]  loss = 0.769983
+[eval 00530]  loss = -4.754875
+[eval 00540]  loss = 1.558105
+[eval 00550]  loss = 0.413879
+[eval 00560]  loss = -6.032873
+[eval 00570]  loss = -5.429960
+[eval 00580]  loss = -4.182021
+[eval 00590]  loss = -4.676465
+[eval 00600]  loss = 2.500147
+[eval 00610]  loss = -4.227872
+[eval 00620]  loss = -1.520734
+[eval 00630]  loss = -5.334351
+[eval 00640]  loss = 1.080488
+[eval 00650]  loss = 5.027277
+[eval 00660]  loss = -5.123464
+[eval 00670]  loss = 3.305055
+[eval 00680]  loss = 3.193201
+[eval 00690]  loss = 1.732555
+[eval 00700]  loss = -4.034001
+[eval 00710]  loss = -0.102209
+[eval 00720]  loss = -4.777698
+[eval 00730]  loss = 2.041872
+[eval 00740]  loss = 2.070955
+[eval 00750]  loss = -4.981286
+[eval 00760]  loss = -2.518934
+[eval 00770]  loss = 5.031243
+[eval 00780]  loss = 3.292252
+[eval 00790]  loss = -5.130391
+[eval 00800]  loss = 1.256319
+[eval 00810]  loss = -4.829098
+[eval 00820]  loss = 0.683562
+[eval 00830]  loss = -3.267901
+[eval 00840]  loss = -4.992468
+[eval 00850]  loss = 2.864778
+[eval 00860]  loss = -4.882830
+[eval 00870]  loss = -0.457137
+[eval 00880]  loss = -2.495181
+[eval 00890]  loss = 1.698992
+[eval 00900]  loss = -4.720966
+[eval 00910]  loss = 0.410827
+[eval 00920]  loss = -4.511879
+[eval 00930]  loss = -4.463667
+[eval 00940]  loss = -0.767387
+[eval 00950]  loss = 4.086198
+[eval 00960]  loss = -1.906356
+[eval 00970]  loss = -3.110584
+[eval 00980]  loss = -2.031589
+[eval 00990]  loss = -5.636043
+accuracy = 0.657
+confusion matrix:
+[[117  83]
+ [ 59 141]]
+              precision    recall  f1-score   support
+
+           0      0.665     0.585     0.622       200
+           1      0.629     0.705     0.665       200
+
+    accuracy                          0.645       400
+   macro avg      0.647     0.645     0.644       400
+weighted avg      0.647     0.645     0.644       400
+
+
+—— fold 2/5 —————————————————————
+[eval 00000]  loss = -0.671439
+[eval 00010]  loss = 1.757889
+[eval 00020]  loss = -3.657802
+[eval 00030]  loss = 0.887602
+[eval 00040]  loss = -1.244927
+[eval 00050]  loss = -0.680998
+[eval 00060]  loss = -0.630228
+[eval 00070]  loss = -5.221025
+[eval 00080]  loss = 2.520061
+[eval 00090]  loss = -0.045233
+[eval 00100]  loss = -5.798561
+[eval 00110]  loss = 2.392345
+[eval 00120]  loss = 3.147132
+[eval 00130]  loss = 2.217211
+[eval 00140]  loss = -2.600400
+[eval 00150]  loss = -1.187710
+[eval 00160]  loss = -4.515775
+[eval 00170]  loss = -1.406804
+[eval 00180]  loss = -3.086092
+[eval 00190]  loss = -3.481642
+[eval 00200]  loss = 3.684523
+[eval 00210]  loss = 2.684278
+[eval 00220]  loss = 2.650047
+[eval 00230]  loss = -2.515637
+[eval 00240]  loss = -0.866958
+[eval 00250]  loss = -0.064513
+[eval 00260]  loss = -3.633367
+[eval 00270]  loss = -0.685471
+[eval 00280]  loss = -0.266776
+[eval 00290]  loss = -1.989309
+[eval 00300]  loss = 1.259840
+[eval 00310]  loss = -1.878299
+[eval 00320]  loss = -2.461410
+[eval 00330]  loss = -0.382963
+[eval 00340]  loss = -2.043899
+[eval 00350]  loss = -2.706602
+[eval 00360]  loss = 1.407546
+[eval 00370]  loss = -1.876961
+[eval 00380]  loss = -2.941673
+[eval 00390]  loss = 2.030890
+[eval 00400]  loss = -2.526889
+[eval 00410]  loss = 1.142892
+[eval 00420]  loss = -4.098689
+[eval 00430]  loss = 4.844799
+[eval 00440]  loss = 4.334551
+[eval 00450]  loss = 0.156801
+[eval 00460]  loss = -4.258358
+[eval 00470]  loss = 3.015295
+[eval 00480]  loss = -2.733626
+[eval 00490]  loss = -1.567818
+[eval 00500]  loss = -1.149082
+[eval 00510]  loss = 0.619120
+[eval 00520]  loss = -4.446593
+[eval 00530]  loss = -5.072919
+[eval 00540]  loss = 3.883548
+[eval 00550]  loss = -5.244843
+[eval 00560]  loss = 1.347557
+[eval 00570]  loss = -5.235202
+[eval 00580]  loss = -5.173882
+[eval 00590]  loss = 0.767784
+[eval 00600]  loss = -4.524734
+[eval 00610]  loss = -2.969149
+[eval 00620]  loss = 3.302559
+[eval 00630]  loss = 1.635279
+[eval 00640]  loss = -4.693222
+[eval 00650]  loss = -2.053572
+[eval 00660]  loss = -3.653083
+[eval 00670]  loss = -5.135580
+[eval 00680]  loss = 3.321500
+[eval 00690]  loss = -3.995647
+[eval 00700]  loss = -0.759753
+[eval 00710]  loss = 0.993779
+[eval 00720]  loss = 1.892244
+[eval 00730]  loss = -5.231139
+[eval 00740]  loss = -0.480464
+[eval 00750]  loss = 2.967038
+[eval 00760]  loss = -4.869458
+[eval 00770]  loss = 2.141337
+[eval 00780]  loss = -4.975592
+[eval 00790]  loss = -1.068649
+[eval 00800]  loss = -5.034374
+[eval 00810]  loss = -2.799987
+[eval 00820]  loss = -5.110025
+[eval 00830]  loss = 4.019373
+[eval 00840]  loss = 4.723701
+[eval 00850]  loss = -5.176863
+[eval 00860]  loss = -0.537378
+[eval 00870]  loss = -1.331486
+[eval 00880]  loss = -2.938763
+[eval 00890]  loss = 1.654360
+[eval 00900]  loss = -0.474136
+[eval 00910]  loss = -5.365276
+[eval 00920]  loss = 2.456699
+[eval 00930]  loss = 3.330160
+[eval 00940]  loss = -5.964405
+[eval 00950]  loss = -4.678188
+[eval 00960]  loss = 0.991827
+[eval 00970]  loss = -2.979533
+[eval 00980]  loss = -0.717085
+[eval 00990]  loss = -6.108894
+[eval 01000]  loss = -6.111883
+accuracy = 0.688
+confusion matrix:
+[[139  61]
+ [ 63 137]]
+              precision    recall  f1-score   support
+
+           0      0.688     0.695     0.692       200
+           1      0.692     0.685     0.688       200
+
+    accuracy                          0.690       400
+   macro avg      0.690     0.690     0.690       400
+weighted avg      0.690     0.690     0.690       400
+
+
+—— fold 3/5 —————————————————————
+[eval 00000]  loss = -2.270486
+[eval 00010]  loss = 1.140284
+[eval 00020]  loss = -4.160758
+[eval 00030]  loss = -1.443884
+[eval 00040]  loss = 1.619396
+[eval 00050]  loss = -1.531787
+[eval 00060]  loss = 1.243646
+[eval 00070]  loss = -4.440546
+[eval 00080]  loss = 1.451455
+[eval 00090]  loss = 0.353765
+[eval 00100]  loss = -1.302591
+[eval 00110]  loss = 2.114294
+[eval 00120]  loss = 0.647267
+[eval 00130]  loss = -1.040523
+[eval 00140]  loss = -2.511325
+[eval 00150]  loss = 2.337571
+[eval 00160]  loss = 3.836927
+[eval 00170]  loss = 2.380849
+[eval 00180]  loss = -0.257531
+[eval 00190]  loss = -2.714152
+[eval 00200]  loss = -4.951240
+[eval 00210]  loss = -4.951240
+[eval 00220]  loss = 0.887395
+[eval 00230]  loss = 0.226252
+[eval 00240]  loss = -1.165506
+[eval 00250]  loss = -5.220361
+[eval 00260]  loss = -2.379683
+[eval 00270]  loss = -1.199395
+[eval 00280]  loss = -2.241816
+[eval 00290]  loss = -3.785282
+[eval 00300]  loss = -5.345783
+[eval 00310]  loss = -2.477037
+[eval 00320]  loss = 0.568370
+[eval 00330]  loss = -4.081503
+[eval 00340]  loss = -3.745717
+[eval 00350]  loss = -3.599209
+[eval 00360]  loss = 0.665326
+[eval 00370]  loss = -2.470372
+[eval 00380]  loss = 3.203089
+[eval 00390]  loss = 0.115569
+[eval 00400]  loss = -1.568027
+[eval 00410]  loss = -4.786988
+[eval 00420]  loss = -3.065451
+[eval 00430]  loss = 2.796363
+[eval 00440]  loss = -3.572440
+[eval 00450]  loss = 1.991121
+[eval 00460]  loss = -2.391375
+[eval 00470]  loss = 0.509532
+[eval 00480]  loss = -4.210114
+[eval 00490]  loss = -3.580314
+[eval 00500]  loss = -0.337012
+[eval 00510]  loss = -4.897625
+[eval 00520]  loss = -5.386921
+[eval 00530]  loss = 3.330903
+[eval 00540]  loss = 1.007354
+[eval 00550]  loss = -5.475255
+[eval 00560]  loss = -1.814251
+[eval 00570]  loss = -2.224830
+[eval 00580]  loss = 1.359334
+[eval 00590]  loss = -5.015683
+[eval 00600]  loss = -3.087737
+[eval 00610]  loss = -3.656100
+[eval 00620]  loss = -4.200619
+[eval 00630]  loss = 2.915770
+[eval 00640]  loss = -1.303446
+[eval 00650]  loss = -0.073369
+[eval 00660]  loss = 0.240241
+[eval 00670]  loss = 1.511571
+[eval 00680]  loss = -5.075416
+[eval 00690]  loss = 1.349419
+[eval 00700]  loss = -4.644487
+[eval 00710]  loss = -4.389286
+[eval 00720]  loss = 4.580920
+[eval 00730]  loss = 1.953711
+[eval 00740]  loss = -0.494732
+[eval 00750]  loss = -3.514296
+[eval 00760]  loss = 0.440256
+[eval 00770]  loss = -4.230385
+[eval 00780]  loss = 0.572279
+[eval 00790]  loss = -3.583900
+[eval 00800]  loss = -4.273341
+[eval 00810]  loss = 1.478282
+[eval 00820]  loss = 0.140159
+[eval 00830]  loss = 0.611884
+[eval 00840]  loss = -0.782447
+[eval 00850]  loss = 3.030498
+[eval 00860]  loss = -4.964853
+[eval 00870]  loss = 2.645686
+[eval 00880]  loss = 4.213924
+[eval 00890]  loss = -5.315822
+[eval 00900]  loss = -3.673614
+[eval 00910]  loss = -4.150024
+[eval 00920]  loss = -0.799558
+[eval 00930]  loss = -4.742799
+[eval 00940]  loss = 4.598569
+[eval 00950]  loss = -5.015678
+[eval 00960]  loss = -1.720143
+[eval 00970]  loss = 2.673248
+[eval 00980]  loss = -4.794858
+[eval 00990]  loss = -0.073638
+accuracy = 0.645
+confusion matrix:
+[[134  66]
+ [ 69 131]]
+              precision    recall  f1-score   support
+
+           0      0.660     0.670     0.665       200
+           1      0.665     0.655     0.660       200
+
+    accuracy                          0.662       400
+   macro avg      0.663     0.663     0.662       400
+weighted avg      0.663     0.662     0.662       400
+
+
+—— fold 4/5 —————————————————————
+[eval 00000]  loss = 1.087552
+[eval 00010]  loss = -1.118354
+[eval 00020]  loss = -3.750725
+[eval 00030]  loss = 0.858355
+[eval 00040]  loss = -2.230459
+[eval 00050]  loss = -2.228542
+[eval 00060]  loss = 0.798813
+[eval 00070]  loss = 0.985202
+[eval 00080]  loss = 3.674147
+[eval 00090]  loss = -0.094043
+[eval 00100]  loss = 2.767150
+[eval 00110]  loss = -4.891336
+[eval 00120]  loss = -3.569070
+[eval 00130]  loss = 4.033044
+[eval 00140]  loss = -2.625921
+[eval 00150]  loss = -1.886731
+[eval 00160]  loss = 1.887250
+[eval 00170]  loss = -2.897721
+[eval 00180]  loss = 3.539199
+[eval 00190]  loss = -4.769393
+[eval 00200]  loss = -1.317742
+[eval 00210]  loss = -1.882016
+[eval 00220]  loss = -0.535397
+[eval 00230]  loss = -1.526295
+[eval 00240]  loss = -0.118637
+[eval 00250]  loss = -0.208889
+[eval 00260]  loss = 0.206835
+[eval 00270]  loss = 0.687566
+[eval 00280]  loss = 0.389618
+[eval 00290]  loss = 3.031211
+[eval 00300]  loss = -0.976010
+[eval 00310]  loss = -0.474685
+[eval 00320]  loss = -3.482410
+[eval 00330]  loss = -5.743853
+[eval 00340]  loss = 3.145080
+[eval 00350]  loss = 1.645545
+[eval 00360]  loss = -3.480113
+[eval 00370]  loss = -3.067774
+[eval 00380]  loss = -4.690528
+[eval 00390]  loss = -0.294309
+[eval 00400]  loss = 2.506675
+[eval 00410]  loss = 1.067236
+[eval 00420]  loss = -3.233563
+[eval 00430]  loss = -1.348908
+[eval 00440]  loss = -1.180057
+[eval 00450]  loss = -2.077330
+[eval 00460]  loss = 0.944077
+[eval 00470]  loss = -0.292639
+[eval 00480]  loss = -1.941007
+[eval 00490]  loss = -4.389298
+[eval 00500]  loss = 4.594655
+[eval 00510]  loss = -1.297886
+[eval 00520]  loss = -2.430421
+[eval 00530]  loss = -2.959839
+[eval 00540]  loss = -1.902435
+[eval 00550]  loss = -3.640929
+[eval 00560]  loss = -1.317784
+[eval 00570]  loss = -3.904220
+[eval 00580]  loss = -4.380943
+[eval 00590]  loss = -1.579785
+[eval 00600]  loss = 1.255466
+[eval 00610]  loss = 1.522082
+[eval 00620]  loss = -2.450417
+[eval 00630]  loss = 2.458873
+[eval 00640]  loss = -4.689216
+[eval 00650]  loss = -4.649060
+[eval 00660]  loss = -3.743154
+[eval 00670]  loss = -0.857300
+[eval 00680]  loss = 4.057569
+[eval 00690]  loss = 2.281546
+[eval 00700]  loss = 1.638108
+[eval 00710]  loss = -3.951311
+[eval 00720]  loss = -1.622394
+[eval 00730]  loss = -4.685179
+[eval 00740]  loss = 0.453426
+[eval 00750]  loss = 1.228384
+[eval 00760]  loss = -2.926989
+[eval 00770]  loss = -2.268708
+[eval 00780]  loss = -2.620728
+[eval 00790]  loss = 1.451918
+[eval 00800]  loss = -1.565072
+[eval 00810]  loss = 4.766730
+[eval 00820]  loss = -4.929579
+[eval 00830]  loss = 2.245875
+[eval 00840]  loss = -3.276453
+[eval 00850]  loss = -4.875352
+[eval 00860]  loss = 1.657482
+[eval 00870]  loss = -4.590650
+[eval 00880]  loss = 3.255657
+[eval 00890]  loss = -4.883195
+[eval 00900]  loss = -2.266300
+[eval 00910]  loss = -5.403139
+[eval 00920]  loss = 0.682458
+[eval 00930]  loss = 5.414122
+[eval 00940]  loss = -5.032602
+[eval 00950]  loss = -1.735148
+[eval 00960]  loss = -5.264005
+[eval 00970]  loss = 4.900476
+[eval 00980]  loss = -4.375779
+[eval 00990]  loss = 1.730977
+accuracy = 0.703
+confusion matrix:
+[[124  76]
+ [ 41 159]]
+              precision    recall  f1-score   support
+
+           0      0.752     0.620     0.679       200
+           1      0.677     0.795     0.731       200
+
+    accuracy                          0.708       400
+   macro avg      0.714     0.708     0.705       400
+weighted avg      0.714     0.708     0.705       400
+
+
+—— fold 5/5 —————————————————————
+[eval 00000]  loss = 0.006871
+[eval 00010]  loss = -1.736511
+[eval 00020]  loss = -4.570949
+[eval 00030]  loss = 4.432441
+[eval 00040]  loss = -3.187095
+[eval 00050]  loss = -4.605145
+[eval 00060]  loss = -2.616920
+[eval 00070]  loss = -0.573677
+[eval 00080]  loss = -2.703891
+[eval 00090]  loss = -0.455405
+[eval 00100]  loss = -3.106374
+[eval 00110]  loss = 0.973759
+[eval 00120]  loss = -2.203130
+[eval 00130]  loss = 0.182108
+[eval 00140]  loss = 0.929110
+[eval 00150]  loss = -0.920535
+[eval 00160]  loss = 2.319314
+[eval 00170]  loss = 4.427626
+[eval 00180]  loss = -1.620394
+[eval 00190]  loss = -4.582438
+[eval 00200]  loss = -1.920695
+[eval 00210]  loss = -0.409163
+[eval 00220]  loss = -3.275430
+[eval 00230]  loss = -2.746764
+[eval 00240]  loss = 0.041215
+[eval 00250]  loss = -6.024424
+[eval 00260]  loss = 4.376778
+[eval 00270]  loss = -3.388589
+[eval 00280]  loss = -1.505735
+[eval 00290]  loss = 2.982731
+[eval 00300]  loss = -4.215283
+[eval 00310]  loss = -1.270731
+[eval 00320]  loss = -1.794945
+[eval 00330]  loss = -3.316584
+[eval 00340]  loss = -3.880040
+[eval 00350]  loss = -2.916314
+[eval 00360]  loss = -4.198456
+[eval 00370]  loss = -2.382046
+[eval 00380]  loss = -1.012174
+[eval 00390]  loss = -0.599377
+[eval 00400]  loss = -2.050347
+[eval 00410]  loss = -2.871188
+[eval 00420]  loss = -2.825907
+[eval 00430]  loss = 2.566173
+[eval 00440]  loss = -3.408223
+[eval 00450]  loss = -3.835537
+[eval 00460]  loss = 0.646942
+[eval 00470]  loss = -3.546007
+[eval 00480]  loss = 2.544169
+[eval 00490]  loss = -2.240809
+[eval 00500]  loss = -4.761709
+[eval 00510]  loss = -1.938718
+[eval 00520]  loss = -2.407722
+[eval 00530]  loss = -0.686064
+[eval 00540]  loss = -4.657682
+[eval 00550]  loss = -3.798794
+[eval 00560]  loss = -3.515148
+[eval 00570]  loss = -4.005739
+[eval 00580]  loss = -4.404557
+[eval 00590]  loss = -5.242157
+[eval 00600]  loss = 0.698032
+[eval 00610]  loss = -4.395514
+[eval 00620]  loss = 1.529777
+[eval 00630]  loss = -5.086262
+[eval 00640]  loss = 1.879843
+[eval 00650]  loss = -4.995260
+[eval 00660]  loss = -2.561035
+[eval 00670]  loss = 3.192317
+[eval 00680]  loss = -4.836721
+[eval 00690]  loss = 3.229018
+[eval 00700]  loss = 3.309742
+[eval 00710]  loss = -0.924267
+[eval 00720]  loss = -2.959737
+[eval 00730]  loss = -3.221423
+[eval 00740]  loss = -5.486428
+[eval 00750]  loss = -0.738325
+[eval 00760]  loss = -5.515144
+[eval 00770]  loss = -4.874271
+[eval 00780]  loss = -2.072000
+[eval 00790]  loss = -5.839349
+[eval 00800]  loss = -3.829314
+[eval 00810]  loss = -4.149012
+[eval 00820]  loss = 4.707603
+[eval 00830]  loss = -5.659469
+[eval 00840]  loss = -0.184723
+[eval 00850]  loss = 5.583001
+[eval 00860]  loss = -5.241297
+[eval 00870]  loss = -3.653158
+[eval 00880]  loss = -4.506142
+[eval 00890]  loss = 0.284123
+[eval 00900]  loss = -4.477701
+[eval 00910]  loss = -2.601082
+[eval 00920]  loss = -5.663311
+[eval 00930]  loss = -1.880241
+[eval 00940]  loss = -5.017394
+[eval 00950]  loss = -5.132006
+[eval 00960]  loss = 2.297828
+[eval 00970]  loss = 2.037595
+[eval 00980]  loss = 0.885102
+[eval 00990]  loss = -4.430701
+accuracy = 0.685
+confusion matrix:
+[[132  68]
+ [ 58 142]]
+              precision    recall  f1-score   support
+
+           0      0.695     0.660     0.677       200
+           1      0.676     0.710     0.693       200
+
+    accuracy                          0.685       400
+   macro avg      0.685     0.685     0.685       400
+weighted avg      0.685     0.685     0.685       400
+
+
+=== summary ===
+fold accuracies: [0.658 0.688 0.645 0.702 0.685]
+mean ± std = 0.6755 ± 0.021059439688652697
+
+Per-sample predictions saved to dualann_qugrad_ideal_cv_results.csv

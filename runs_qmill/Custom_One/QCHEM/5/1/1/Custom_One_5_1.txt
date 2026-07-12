@@ -1,0 +1,12 @@
+Sun Nov 17 09:46:37 2024 
+ Ansatz: Custom_One 
+ Training Time: 15305.885119199753 
+ Parameters: [[3.92881121e-01 5.72687500e+00 2.68683578e+00 1.44310705e+00
+  3.36304929e+00 5.39174510e+00 1.07049373e+00 6.83035339e-01
+  6.24680855e+00 1.75396632e+00 4.19938049e+00 3.33120080e-03
+  2.42518924e+00 6.23341065e+00]] 
+ Dist: QCHEM 
+ Initial Cost: 0.5202083020830208 
+ Total Iterations: 500 
+ Final Cost: 0.021540715407154083 
+ Message: ['Maximum number of iteration reached']

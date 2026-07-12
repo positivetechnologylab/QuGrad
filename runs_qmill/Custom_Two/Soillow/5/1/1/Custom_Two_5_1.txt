@@ -1,0 +1,11 @@
+Sat Apr 19 22:16:46 2025 
+ Ansatz: Custom_Two 
+ Training Time: 7743.996527194977 
+ Parameters: [[1.29899392 3.06571493 2.08630655 4.02896921 4.88725572 4.86939265
+  2.70356064 1.79886936 0.026744   3.30361418 2.56985709 3.195798
+  3.15213232 3.70882998]] 
+ Dist: Soillow 
+ Initial Cost: 0.2715499523254582 
+ Total Iterations: 300 
+ Final Cost: 0.09589363280008475 
+ Message: ['Maximum number of iteration reached']

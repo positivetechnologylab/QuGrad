@@ -1,0 +1,11 @@
+Fri Nov 15 17:37:20 2024 
+ Ansatz: Custom_One 
+ Training Time: 21257.07081580162 
+ Parameters: [[4.12532796 1.58865999 0.93676054 4.53097248 2.71724191 3.25472847
+  0.4277015  2.82284578 5.95979941 3.8178042  3.84949438 5.76864649
+  6.12732558 0.09347512]] 
+ Dist: Uniform 
+ Initial Cost: 0.24981 
+ Total Iterations: 500 
+ Final Cost: 0.10202 
+ Message: ['Maximum number of iteration reached']

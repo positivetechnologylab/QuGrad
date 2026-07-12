@@ -1,0 +1,11 @@
+Sun Apr 20 02:23:37 2025 
+ Ansatz: Sixteen 
+ Training Time: 9793.699236869812 
+ Parameters: [[1.56731212 6.20910092 1.90214163 0.78059774 2.23692498 1.18388048
+  2.827619   4.45832951 4.37461731 1.2087872  3.04061412 0.94154364
+  3.59092496 6.15496114]] 
+ Dist: dmlow 
+ Initial Cost: 0.21054037285878574 
+ Total Iterations: 300 
+ Final Cost: 0.11173899884994856 
+ Message: ['Maximum number of iteration reached']

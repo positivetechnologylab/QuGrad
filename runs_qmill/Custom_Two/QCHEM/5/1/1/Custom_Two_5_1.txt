@@ -1,0 +1,11 @@
+Sun Nov 17 13:24:35 2024 
+ Ansatz: Custom_Two 
+ Training Time: 10320.90271639824 
+ Parameters: [[5.5358855  2.62954474 2.46213274 3.87690182 0.71840709 5.06663717
+  1.43205965 1.81713652 1.78464705 3.78282096 3.62289849 3.19569375
+  3.8230174  1.39986317]] 
+ Dist: QCHEM 
+ Initial Cost: 0.86569945699457 
+ Total Iterations: 500 
+ Final Cost: 0.0234228342283423 
+ Message: ['Maximum number of iteration reached']

@@ -1,0 +1,6 @@
+TVD Comparison: Sixteen/Uniform
+============================================================
+Initial (Random):       0.220600
+Ideal (Dual Annealing): 0.150400
+GAN (Adversarial):      0.312000
+GAN vs Ideal difference: 0.161600

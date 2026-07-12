@@ -1,0 +1,11 @@
+Sat Nov 16 11:58:36 2024 
+ Ansatz: Sixteen 
+ Training Time: 8543.369020223618 
+ Parameters: [[1.51914478 4.06048798 2.15186809 5.07956901 5.90859158 5.88412126
+  3.18743791 0.54914616 1.5823919  1.84004488 5.06620038 0.76119469
+  5.43375439 4.64919251]] 
+ Dist: Fashion MNIST 
+ Initial Cost: 0.231620581485082 
+ Total Iterations: 500 
+ Final Cost: 0.049079766283486495 
+ Message: ['Maximum number of iteration reached']

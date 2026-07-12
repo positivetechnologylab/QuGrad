@@ -1,0 +1,11 @@
+Sun Apr 20 01:27:20 2025 
+ Ansatz: Custom_Two 
+ Training Time: 6477.100627422333 
+ Parameters: [[2.48961389 2.39097765 1.46723282 1.84706026 4.80197902 1.58453095
+  1.26526383 1.56664408 6.2299807  4.33586044 0.63527843 2.80036575
+  2.63370284 5.70253009]] 
+ Dist: dmlow 
+ Initial Cost: 0.29969788519637464 
+ Total Iterations: 300 
+ Final Cost: 0.1433353474320241 
+ Message: ['Maximum number of iteration reached']

@@ -1,0 +1,11 @@
+Sat Apr 19 22:47:00 2025 
+ Ansatz: Custom_One 
+ Training Time: 9596.013381958008 
+ Parameters: [[2.48063636 1.9489343  1.71784073 0.79527899 0.70314733 2.55150171
+  5.89464    0.03629539 3.00379565 2.26603293 4.57024946 4.98394573
+  0.9371033  5.06712579]] 
+ Dist: Soillow 
+ Initial Cost: 0.23194452981760758 
+ Total Iterations: 300 
+ Final Cost: 0.05915289803618172 
+ Message: ['Maximum number of iteration reached']

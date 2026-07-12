@@ -1,0 +1,11 @@
+Fri Nov 15 19:02:15 2024 
+ Ansatz: Sixteen 
+ Training Time: 8107.198021650314 
+ Parameters: [[2.45234253 2.87378287 0.9566324  6.15850231 0.22808083 0.90419886
+  2.39934152 3.80875201 1.51061488 5.8733281  0.518911   6.02145659
+  0.58201125 4.91759868]] 
+ Dist: Left Weibull 
+ Initial Cost: 0.30540999999999996 
+ Total Iterations: 500 
+ Final Cost: 0.03506999999999998 
+ Message: ['Maximum number of iteration reached']

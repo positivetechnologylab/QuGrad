@@ -1,0 +1,11 @@
+Sat Apr 19 21:39:07 2025 
+ Ansatz: Custom_Two 
+ Training Time: 5284.751878499985 
+ Parameters: [[3.75734424 0.34862648 5.4237715  0.61392679 4.27657417 6.24241719
+  1.46106699 0.20216084 0.6775636  2.75661903 2.1459749  3.40659842
+  1.27960897 6.14580563]] 
+ Dist: Soilhigh 
+ Initial Cost: 0.16938486453837248 
+ Total Iterations: 300 
+ Final Cost: 0.09064783655005537 
+ Message: ['Maximum number of iteration reached']
